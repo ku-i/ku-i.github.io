@@ -94,7 +94,7 @@
   <Waypoint lat="38.63583" lon="116.3686" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="AVBOX"/>
   <Waypoint lat="38.71722" lon="115.5183" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="BELAX"/>
   <Waypoint lat="40.20167" lon="115.5006" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="ELAPU"/>
-	<Waypoint lat="39.323441" lon="116.454673" magvar="7.0" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF01L"/>
+<Waypoint lat="39.323441" lon="116.454673" magvar="7.0" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF01L"/>
 	<Waypoint lon="116.4116" lat="39.5964" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF19R" magvar="7.0"/>
 	<Waypoint lon="116.6613" lat="39.4751" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF29R" magvar="7.0"/>
 	<Waypoint lon="116.3811" lat="39.6126" waypointType="FAF" waypointRegion="ZB" waypointIdent="F17LY" magvar="7.0"/>
