@@ -102,3 +102,136 @@
 	<Waypoint lon="116.3723" lat="39.6118" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF17R" magvar="7.0"/>
 	<Waypoint lon="116.4237" lat="39.2856" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35L" magvar="7.0"/>
 	<Waypoint lat="39.2865" lon="116.4325" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35R" magvar="7.0"/>
+		<Departure name="11D">
+			<RunwayTransitions>
+                <RunwayTransitionLegs number="19" designator="RIGHT">
+                <Leg type="CA" magneticCourse="179.0" altitudeDescriptor="A" altitude1="150M"/>
+                </RunwayTransitionLegs>
+            </RunwayTransitions>
+            <CommonRouteLegs/>
+            <EnrouteTransitions>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="323.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="IDKEX" altitudeDescriptor="A" altitude1="5400M" magneticCourse="002.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="341.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DOTRA" altitudeDescriptor="A" altitude1="5400M" magneticCourse="341.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="099.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD735" altitudeDescriptor="A" altitude1="3000M" magneticCourse="099.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="MUGLO" altitudeDescriptor="+" altitude1="4500M" magneticCourse="099.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD736" altitudeDescriptor="A" altitude1="3000M" magneticCourse="229.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELKUR" altitudeDescriptor="A" altitude1="4200M" magneticCourse="229.0"/>
+                </EnrouteTransitionLegs>
+            </EnrouteTransitions>
+        </Departure>
+		<Departure name="11D">
+			<RunwayTransitions>
+                <RunwayTransitionLegs number="17" designator="LEFT">
+                <Leg type="CA" magneticCourse="179.0" altitudeDescriptor="A" altitude1="150M"/>
+                </RunwayTransitionLegs>
+            </RunwayTransitions>
+            <CommonRouteLegs/>
+            <EnrouteTransitions>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD751" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD752" altitudeDescriptor="A" altitude1="2100M" magneticCourse="221.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD753" altitudeDescriptor="-" altitude1="3600M" magneticCourse="221.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" altitudeDescriptor="A" altitude1="4200M" magneticCourse="221.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD751" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD772" altitudeDescriptor="A" altitude1="1800M" magneticCourse="247.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD773" altitudeDescriptor="A" altitude1="2400M" magneticCourse="247.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" altitudeDescriptor="A" altitude1="4500M" magneticCourse="247.0"/>
+                </EnrouteTransitionLegs>
+            </EnrouteTransitions>
+        </Departure>
+		<Departure name="12D">
+			<RunwayTransitions>
+                <RunwayTransitionLegs number="17" designator="RIGHT">
+                <Leg type="CA" magneticCourse="179.0" altitudeDescriptor="A" altitude1="150M"/>
+                </RunwayTransitionLegs>
+            </RunwayTransitions>
+            <CommonRouteLegs/>
+            <EnrouteTransitions>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD771" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD754" altitudeDescriptor="A" altitude1="2100M" magneticCourse="221.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD753" altitudeDescriptor="-" altitude1="3600M" magneticCourse="221.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" altitudeDescriptor="A" altitude1="4200M" magneticCourse="221.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD771" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD772" altitudeDescriptor="A" altitude1="1800M" magneticCourse="247.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD773" altitudeDescriptor="A" altitude1="2400M" magneticCourse="247.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" altitudeDescriptor="A" altitude1="4500M" magneticCourse="247.0"/>
+                </EnrouteTransitionLegs>
+            </EnrouteTransitions>
+        </Departure>
+
+		<Departure name="01D">
+			<RunwayTransitions>
+                <RunwayTransitionLegs number="01" designator="LEFT">
+                <Leg type="CA" magneticCourse="359.0" altitudeDescriptor="A" altitude1="150M"/>
+                </RunwayTransitionLegs>
+            </RunwayTransitions>
+            <CommonRouteLegs/>
+            <EnrouteTransitions>
+                <EnrouteTransitionLegs>
+                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="323.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="IDKEX" altitudeDescriptor="A" altitude1="5400M" magneticCourse="002.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="341.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DOTRA" altitudeDescriptor="A" altitude1="5400M" magneticCourse="341.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="099.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD735" altitudeDescriptor="A" altitude1="3000M" magneticCourse="099.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="MUGLO" altitudeDescriptor="+" altitude1="4500M" magneticCourse="099.0"/>
+                </EnrouteTransitionLegs>
+                <EnrouteTransitionLegs>
+                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="164.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD736" altitudeDescriptor="A" altitude1="3000M" magneticCourse="229.0"/>
+                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELKUR" altitudeDescriptor="A" altitude1="4200M" magneticCourse="229.0"/>
+                </EnrouteTransitionLegs>
+            </EnrouteTransitions>
+        </Departure>
