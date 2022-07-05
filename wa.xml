@@ -235,3 +235,85 @@
                 </EnrouteTransitionLegs>
             </EnrouteTransitions>
         </Departure>
+ZUAL
+
+        <Waypoint lat="32.364922" lon="80.419648" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL307" magvar="0.0" />
+        <Waypoint lat="32.455903" lon="80.140153" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL306" magvar="0.0" />
+        <Waypoint lat="32.508554" lon="79.975291" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL305" magvar="0.0" />
+        <Waypoint lat="32.490625" lon="79.912519" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL204" magvar="0.0" />
+        <Waypoint lat="32.438534" lon="79.892298" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL203" magvar="0.0" />
+        <Waypoint lat="32.343682" lon="79.901539" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL202" magvar="0.0" />
+        <Waypoint lat="32.209431" lon="79.985078" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL200" magvar="0.0" />
+        <Waypoint lat="31.918562" lon="80.165542" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL198" magvar="0.0" />
+        <Waypoint lat="32.404772" lon="80.089790" waypointType="UNNAMED" waypointRegion="ZU" waypointIdent="CI58L" magvar="0.0" />
+		<Approach type="RNAV" runway="15" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL204" altitude="4676M" heading="151" missedAltitude="5900M">
+		<ApproachLegs>
+			<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL204" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="+" altitude1="5821.68M" />
+			<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL203" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="A" altitude1="5760.72M" />
+			<Leg type="RF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL202" turnDirection="L" distance="5.8N" altitudeDescriptor="+" altitude1="5394.96M" arcCenterFixType="TERMINAL_WAYPOINT" arcCenterFixRegion="ZU" arcCenterFixIdent="CI58L" />
+			<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL200" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4785M" />
+			<Leg type="TF" fixType="RUNWAY" fixRegion="ZU" fixIdent="RW15" flyOver="TRUE" magneticCourse="151.0" altitudeDescriptor="A" altitude1="4266M" />
+		</ApproachLegs>
+		<MissedApproachLegs>
+			<Leg type="CA" magneticCourse="150.0" altitudeDescriptor="+" altitude1="4466M"/>
+			<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL198" turnDirection="L" magneticCourse="151" time="1.0" altitudeDescriptor="+" altitude1="5900M"/>
+		</MissedApproachLegs>
+		<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL307" altitude="6553.2M" >
+			<TransitionLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL307" altitudeDescriptor="+" altitude1="6553.2M" />
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL306" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="A" altitude1="6553.2M" />
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL305" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="+" altitude1="5943.6M" />
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="AL204" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="+" altitude1="5821.68M" />
+			</TransitionLegs>
+		</Transition>
+		</Approach>
+		
+ZUBD
+
+        <Waypoint lat="30.521558" lon="101.602618" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD201" magvar="0.0" />
+        <Waypoint lat="30.355666" lon="101.594287" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD102" magvar="0.0" />
+        <Waypoint lat="30.227064" lon="101.681435" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD101" magvar="0.0" />
+        <Waypoint lat="30.098822" lon="101.768602" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD208" magvar="0.0" />
+        <Waypoint lat="30.082330" lon="101.700701" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD210" magvar="0.0" />
+        <Waypoint lat="30.107453" lon="101.762799" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD206" magvar="0.0" />
+        <Waypoint lat="30.787333" lon="101.899833" waypointType="NAMED" waypointRegion="ZU" waypointIdent="KAMAX" magvar="0.0" />
+        <Waypoint lat="30.433821" lon="101.726704" waypointType="UNNAMED" waypointRegion="ZU" waypointIdent="C106L" magvar="0.0" />
+        <Waypoint lat="30.088060" lon="101.735539" waypointType="UNNAMED" waypointRegion="ZU" waypointIdent="C618R" magvar="0.0" />
+
+		<Approach type="RNAV" runway="15" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD101" altitude="4785M" heading="149" missedAltitude="5900M">
+		<ApproachLegs>
+			<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD101" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4785M" />
+			<Leg type="TF" fixType="RUNWAY" fixRegion="ZU" fixIdent="RW15" flyOver="TRUE" magneticCourse="149.0" altitudeDescriptor="A" altitude1="4240M" />
+		</ApproachLegs>
+		<MissedApproachLegs>
+			<Leg type="CA" magneticCourse="150.0" altitudeDescriptor="+" altitude1="4466M"/>
+			<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD210" turnDirection="L" magneticCourse="149" time="1.0" altitudeDescriptor="+" altitude1="5500M"/>
+		</MissedApproachLegs>
+		<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KAMAX" altitude="6553.2M" >
+			<TransitionLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KAMAX" altitudeDescriptor="+" altitude1="6100M" />
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD201" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="+" altitude1="5639M" />
+				<Leg type="RF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD102" turnDirection="L" distance="7.05N" magneticCourse="0.0" altitudeDescriptor="+" altitude1="5639M" arcCenterFixType="TERMINAL_WAYPOINT" arcCenterFixRegion="ZU" arcCenterFixIdent="C106L" />
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD101" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4785M" />
+			</TransitionLegs>
+		</Transition>
+		</Approach>
+		<Approach type="RNAV" runway="33" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD206" altitude="4358.64M" heading="149" missedAltitude="5900M">
+		<ApproachLegs>
+			<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD206" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4358.64M" />
+			<Leg type="TF" fixType="RUNWAY" fixRegion="ZU" fixIdent="RW15" flyOver="TRUE" magneticCourse="149.0" altitudeDescriptor="A" altitude1="4240M" />
+		</ApproachLegs>
+		<MissedApproachLegs>
+			<Leg type="CA" magneticCourse="330.0" altitudeDescriptor="+" altitude1="4466M"/>
+			<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD102" turnDirection="L" magneticCourse="149" time="1.0" altitudeDescriptor="+" altitude1="5500M"/>
+		</MissedApproachLegs>
+		<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KAMAX" altitude="6553.2M" >
+			<TransitionLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KAMAX" altitudeDescriptor="+" altitude1="6100M" />
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD201" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="+" altitude1="5639M" />
+				<Leg type="RF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD102" turnDirection="L" distance="7.05N" magneticCourse="0.0" altitudeDescriptor="+" altitude1="5639M" arcCenterFixType="TERMINAL_WAYPOINT" arcCenterFixRegion="ZU" arcCenterFixIdent="C106L" />
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD210" flyOver="FALSE" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4785M" />
+				<Leg type="RF" fixType="TERMINAL_WAYPOINT" fixRegion="ZU" fixIdent="KD208" turnDirection="L" distance="6.18N" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4455M" arcCenterFixType="TERMINAL_WAYPOINT" arcCenterFixRegion="ZU" arcCenterFixIdent="C618R" />
+			</TransitionLegs>
+		</Transition>
+		</Approach>
