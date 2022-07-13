@@ -1,240 +1,594 @@
-  <Waypoint lat="39.1081" lon="116.4600" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD608" magvar="7.0"/>
-  <Waypoint lat="39.7922" lon="116.3806" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD720" magvar="7.0"/>
-  <Waypoint lat="39.1692" lon="116.0219" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD655" magvar="7.0"/>
-  <Waypoint lat="39.2064" lon="116.1089" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD772" magvar="7.0"/>
-  <Waypoint lat="39.0514" lon="116.0378" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD656" magvar="7.0"/>
-  <Waypoint lon="116.1922" lat="39.0822" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD661" magvar="7.0"/>
-  <Waypoint lon="117.2342" lat="39.1139" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD635" magvar="7.0"/>
-  <Waypoint lon="117.2342" lat="39.1139" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD735" magvar="7.0"/>
-  <Waypoint lon="115.9911" lat="38.9336" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD662" magvar="7.0"/>
-  <Waypoint lon="116.2002" lat="39.0289" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD764" magvar="7.0"/>
-  <Waypoint lon="116.0500" lat="38.9605" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD765" magvar="7.0"/>
-  <Waypoint lon="116.1656" lat="39.2647" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD768" magvar="7.0"/>
-  <Waypoint lon="115.9874" lat="39.1541" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD773" magvar="7.0"/>
-  <Waypoint lon="116.4869" lat="39.1105" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD620" magvar="7.0"/>
-  <Waypoint lon="116.6247" lat="39.1233" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD621" magvar="7.0"/>
-  <Waypoint lon="116.8372" lat="39.3391" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD633" magvar="7.0"/>
-  <Waypoint lon="116.9436" lat="39.1283" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD634" magvar="7.0"/>
-  <Waypoint lon="117.0341" lat="38.9480" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD636" magvar="7.0"/>
-  <Waypoint lon="116.4713" lat="39.0372" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD641" magvar="7.0"/>
-  <Waypoint lon="116.7624" lat="39.0266" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD642" magvar="7.0"/>
-  <Waypoint lon="117.1497" lat="38.8955" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD643" magvar="7.0"/>
-  <Waypoint lon="116.4658" lat="39.0163" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD645" magvar="7.0"/>
-  <Waypoint lat="39.4740" lon="116.3946" waypointType="VOR" waypointRegion="ZB" waypointIdent="DXG" magvar="7.0"/>
-  <Waypoint lon="116.6039" lat="39.2602" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD646" magvar="7.0"/>
-  <Waypoint lon="116.7461" lat="39.1347" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD647" magvar="7.0"/>
-  <Waypoint lon="116.4511" lat="39.1072" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD660" magvar="7.0"/>
-  <Waypoint lon="116.8372" lat="39.3391" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD733" magvar="7.0"/>
-  <Waypoint lon="116.9436" lat="39.1283" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD734" magvar="7.0"/>
-  <Waypoint lon="117.0341" lat="38.9480" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD736" magvar="7.0"/>
-  <Waypoint lon="116.6330" lat="39.0690" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD742" magvar="7.0"/>
-  <Waypoint lon="116.7624" lat="39.0266" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD743" magvar="7.0"/>
-  <Waypoint lon="117.1497" lat="38.8955" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD744" magvar="7.0"/>
-  <Waypoint lon="116.4233" lat="39.3408" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD751" magvar="7.0"/>
-  <Waypoint lon="116.4644" lat="39.0775" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD752" magvar="7.0"/>
-  <Waypoint lon="116.2505" lat="38.8363" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD753" magvar="7.0"/>
-  <Waypoint lon="116.4569" lat="39.0689" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD754" magvar="7.0"/>
-  <Waypoint lon="116.4319" lat="39.2902" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD766" magvar="7.0"/>
-  <Waypoint lon="116.4230" lat="39.2894" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD767" magvar="7.0"/>
-  <Waypoint lon="116.4150" lat="39.3372" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD771" magvar="7.0"/>
-  <Waypoint lon="116.2238" lat="39.6116" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD652" magvar="7.0"/>
-  <Waypoint lon="115.9530" lat="39.5947" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD653" magvar="7.0"/>
-  <Waypoint lon="115.9769" lat="39.4477" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD654" magvar="7.0"/>
-  <Waypoint lon="116.1047" lat="39.6580" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD665" magvar="7.0"/>
-  <Waypoint lon="116.1291" lat="39.4980" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD682" magvar="7.0"/>
-  <Waypoint lon="115.7491" lat="39.4549" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD683" magvar="7.0"/>
-  <Waypoint lon="115.6049" lat="39.8983" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD684" magvar="7.0"/>
-  <Waypoint lat="39.7644" lon="116.0883" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD762" magvar="7.0"/>
-  <Waypoint lon="116.1455" lat="39.3908" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD763" magvar="7.0"/>
-  <Waypoint lon="116.1291" lat="39.4980" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD783" magvar="7.0"/>
-  <Waypoint lon="115.7491" lat="39.4549" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD784" magvar="7.0"/>
-  <Waypoint lon="115.6049" lat="39.8983" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD785" magvar="7.0"/>
-  <Waypoint lon="117.0147" lat="40.4136" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD616" magvar="7.0"/>
-  <Waypoint lon="116.8563" lat="40.1208" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD625" magvar="7.0"/>
-  <Waypoint lon="117.0250" lat="40.3574" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD626" magvar="7.0"/>
-  <Waypoint lon="117.0147" lat="40.4136" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD716" magvar="7.0"/>
-  <Waypoint lon="116.8563" lat="40.1208" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD725" magvar="7.0"/>
-  <Waypoint lon="116.6413" lat="39.4905" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD611" magvar="7.0"/>
-  <Waypoint lon="116.7866" lat="39.5458" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD612" magvar="7.0"/>
-  <Waypoint lon="116.9286" lat="39.5997" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD613" magvar="7.0"/>
-  <Waypoint lon="117.1494" lat="39.6827" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD614" magvar="7.0"/>
-  <Waypoint lon="117.0786" lat="40.0686" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD615" magvar="7.0"/>
-  <Waypoint lon="116.5558" lat="39.5705" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD622" magvar="7.0"/>
-  <Waypoint lon="116.8072" lat="39.5924" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD623" magvar="7.0"/>
-  <Waypoint lon="116.7488" lat="39.9694" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD624" magvar="7.0"/>
-  <Waypoint lon="116.5797" lat="39.4158" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD627" magvar="7.0"/>
-  <Waypoint lon="116.7672" lat="39.4769" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD632" magvar="7.0"/>
-  <Waypoint lon="116.2911" lat="39.6155" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD650" magvar="7.0"/>
-  <Waypoint lon="116.3702" lat="39.6819" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD651" magvar="7.0"/>
-  <Waypoint lon="116.2649" lat="39.6141" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD663" magvar="7.0"/>
-  <Waypoint lon="116.2702" lat="39.6730" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD664" magvar="7.0"/>
-  <Waypoint lon="116.3530" lat="39.7897" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD709" magvar="7.0"/>
-  <Waypoint lon="116.6413" lat="39.4905" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD711" magvar="7.0"/>
-  <Waypoint lon="116.7866" lat="39.5458" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD712" magvar="7.0"/>
-  <Waypoint lon="116.9286" lat="39.5997" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD713" magvar="7.0"/>
-  <Waypoint lon="117.1494" lat="39.6827" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD714" magvar="7.0"/>
-  <Waypoint lon="117.0786" lat="40.0686" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD715" magvar="7.0"/>
-  <Waypoint lon="116.5558" lat="39.5705" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD722" magvar="7.0"/>
-  <Waypoint lon="116.8072" lat="39.5924" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD723" magvar="7.0"/>
-  <Waypoint lon="116.7488" lat="39.9694" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD724" magvar="7.0"/>
-  <Waypoint lon="116.7672" lat="39.4769" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD732" magvar="7.0"/>
-  <Waypoint lon="116.5724" lat="39.4630" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD741" magvar="7.0"/>
-  <Waypoint lon="116.3441" lat="39.7889" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD760" magvar="7.0"/>
-  <Waypoint lon="116.7169" lat="39.4652" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD790" magvar="7.0"/>
-  <Waypoint lat="39.323441" lon="116.454673" magvar="7.0" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF01L"/>
-  <Waypoint lon="116.4116" lat="39.5964" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF19R" magvar="7.0"/>
-  <Waypoint lon="116.6613" lat="39.4751" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF29R" magvar="7.0"/>
-  <Waypoint lon="116.3811" lat="39.6126" waypointType="FAF" waypointRegion="ZB" waypointIdent="F17LY" magvar="7.0"/>
-  <Waypoint lon="116.3648" lat="39.7153" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF17L" magvar="7.0"/>
-  <Waypoint lon="116.3723" lat="39.6118" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF17R" magvar="7.0"/>
-  <Waypoint lon="116.4237" lat="39.2856" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35L" magvar="7.0"/>
-  <Waypoint lat="39.2865" lon="116.4325" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35R" magvar="7.0"/>
-  <Waypoint lat="40.7022" lon="117.2692" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="BUMDU"/>
-  <Waypoint lat="40.7511" lon="116.8003" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="DOTRA"/>
-  <Waypoint lat="38.63583" lon="116.3686" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="AVBOX"/>
-  <Waypoint lat="38.71722" lon="115.5183" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="BELAX"/>
-  <Waypoint lat="40.20167" lon="115.5006" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="ELAPU"/>
-<Waypoint lat="39.323441" lon="116.454673" magvar="7.0" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF01L"/>
-	<Waypoint lon="116.4116" lat="39.5964" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF19R" magvar="7.0"/>
-	<Waypoint lon="116.6613" lat="39.4751" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF29R" magvar="7.0"/>
-	<Waypoint lon="116.3811" lat="39.6126" waypointType="FAF" waypointRegion="ZB" waypointIdent="F17LY" magvar="7.0"/>
-	<Waypoint lon="116.3648" lat="39.7153" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF17L" magvar="7.0"/>
-	<Waypoint lon="116.3723" lat="39.6118" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF17R" magvar="7.0"/>
-	<Waypoint lon="116.4237" lat="39.2856" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35L" magvar="7.0"/>
-	<Waypoint lat="39.2865" lon="116.4325" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35R" magvar="7.0"/>
-		<Departure name="11D">
-			<RunwayTransitions>
-                <RunwayTransitionLegs number="19" designator="RIGHT">
-                <Leg type="CA" magneticCourse="179.0" altitudeDescriptor="A" altitude1="150M"/>
-                </RunwayTransitionLegs>
-            </RunwayTransitions>
-            <CommonRouteLegs/>
-            <EnrouteTransitions>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="323.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="IDKEX" altitudeDescriptor="A" altitude1="5400M" magneticCourse="002.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="341.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DOTRA" altitudeDescriptor="A" altitude1="5400M" magneticCourse="341.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="099.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD735" altitudeDescriptor="A" altitude1="3000M" magneticCourse="099.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="MUGLO" altitudeDescriptor="+" altitude1="4500M" magneticCourse="099.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD736" altitudeDescriptor="A" altitude1="3000M" magneticCourse="229.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELKUR" altitudeDescriptor="A" altitude1="4200M" magneticCourse="229.0"/>
-                </EnrouteTransitionLegs>
-            </EnrouteTransitions>
-        </Departure>
-		<Departure name="11D">
-			<RunwayTransitions>
-                <RunwayTransitionLegs number="17" designator="LEFT">
-                <Leg type="CA" magneticCourse="179.0" altitudeDescriptor="A" altitude1="150M"/>
-                </RunwayTransitionLegs>
-            </RunwayTransitions>
-            <CommonRouteLegs/>
-            <EnrouteTransitions>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD751" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD752" altitudeDescriptor="A" altitude1="2100M" magneticCourse="221.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD753" altitudeDescriptor="-" altitude1="3600M" magneticCourse="221.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" altitudeDescriptor="A" altitude1="4200M" magneticCourse="221.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD751" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD772" altitudeDescriptor="A" altitude1="1800M" magneticCourse="247.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD773" altitudeDescriptor="A" altitude1="2400M" magneticCourse="247.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" altitudeDescriptor="A" altitude1="4500M" magneticCourse="247.0"/>
-                </EnrouteTransitionLegs>
-            </EnrouteTransitions>
-        </Departure>
+		<Com frequency="118.825000" type="TOWER" name="TWR01"/>
+		<Com frequency="118.375000" type="TOWER" name="TWR02"/>
+		<Com frequency="130.425000" type="TOWER" name="TWR03"/>
+		<Com frequency="118.725000" type="TOWER" name="TWR04"/>
+		<Com frequency="121.975000" type="GROUND" name="GND01"/>
+		<Com frequency="121.625000" type="GROUND" name="GND02"/>
+		<Com frequency="121.700000" type="GROUND" name="GND03"/>
+		<Com frequency="122.600000" type="GROUND" name="GND04"/>
+		<Com frequency="126.500000" type="APPROACH" name="APP05"/>
+		<Com frequency="119.925000" type="APPROACH" name="APP06"/>
+		<Com frequency="120.000000" type="APPROACH" name="APP07"/>
+		<Com frequency="121.100000" type="APPROACH" name="APP09"/>
+		<Com frequency="129.000000" type="APPROACH" name="APP10"/>
+		<Com frequency="119.700000" type="APPROACH" name="APP11"/>
+		<Com frequency="119.850000" type="APPROACH" name="APP12"/>
+		<Com frequency="125.800000" type="APPROACH" name="APP15"/>
+		<Com frequency="128.400000" type="ATIS" name="ZBAD"/>
+		<Com frequency="127.225000" type="ATIS" name="ZBAD ARR"/>
+		<Com frequency="124.400000" type="APPROACH" name="APP16"/>
+		<Com frequency="120.600000" type="APPROACH" name="APP17"/>
+		<Com frequency="125.500000" type="APPROACH" name="APP18"/>
+		<Waypoint lat="39.1081" lon="116.4600" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD608" magvar="7.0"/>
+		<Waypoint lat="39.7922" lon="116.3806" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD720" magvar="7.0"/>
+		<Waypoint lat="39.1692" lon="116.0219" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD655" magvar="7.0"/>
+		<Waypoint lat="39.2064" lon="116.1089" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD772" magvar="7.0"/>
+		<Waypoint lat="39.0514" lon="116.0378" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD656" magvar="7.0"/>
+		<Waypoint lon="116.1922" lat="39.0822" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD661" magvar="7.0"/>
+		<Waypoint lon="117.2342" lat="39.1139" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD635" magvar="7.0"/>
+		<Waypoint lon="117.2342" lat="39.1139" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD735" magvar="7.0"/>
+		<Waypoint lon="115.9911" lat="38.9336" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD662" magvar="7.0"/>
+		<Waypoint lon="116.2002" lat="39.0289" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD764" magvar="7.0"/>
+		<Waypoint lon="116.0500" lat="38.9605" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD765" magvar="7.0"/>
+		<Waypoint lon="116.1656" lat="39.2647" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD768" magvar="7.0"/>
+		<Waypoint lon="115.9874" lat="39.1541" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD773" magvar="7.0"/>
+		<Waypoint lon="116.4869" lat="39.1105" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD620" magvar="7.0"/>
+		<Waypoint lon="116.6247" lat="39.1233" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD621" magvar="7.0"/>
+		<Waypoint lon="116.8372" lat="39.3391" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD633" magvar="7.0"/>
+		<Waypoint lon="116.9436" lat="39.1283" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD634" magvar="7.0"/>
+		<Waypoint lon="117.0341" lat="38.9480" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD636" magvar="7.0"/>
+		<Waypoint lon="116.4713" lat="39.0372" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD641" magvar="7.0"/>
+		<Waypoint lon="116.7624" lat="39.0266" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD642" magvar="7.0"/>
+		<Waypoint lon="117.1497" lat="38.8955" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD643" magvar="7.0"/>
+		<Waypoint lon="116.4658" lat="39.0163" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD645" magvar="7.0"/>
+		<Waypoint lat="39.4740" lon="116.3946" waypointType="VOR" waypointRegion="ZB" waypointIdent="DXG" magvar="7.0"/>
+		<Waypoint lon="116.6039" lat="39.2602" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD646" magvar="7.0"/>
+		<Waypoint lon="116.7461" lat="39.1347" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD647" magvar="7.0"/>
+		<Waypoint lon="116.4511" lat="39.1072" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD660" magvar="7.0"/>
+		<Waypoint lon="116.8372" lat="39.3391" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD733" magvar="7.0"/>
+		<Waypoint lon="116.9436" lat="39.1283" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD734" magvar="7.0"/>
+		<Waypoint lon="117.0341" lat="38.9480" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD736" magvar="7.0"/>
+		<Waypoint lon="116.6330" lat="39.0690" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD742" magvar="7.0"/>
+		<Waypoint lon="116.7624" lat="39.0266" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD743" magvar="7.0"/>
+		<Waypoint lon="117.1497" lat="38.8955" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD744" magvar="7.0"/>
+		<Waypoint lon="116.4233" lat="39.3408" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD751" magvar="7.0"/>
+		<Waypoint lon="116.4644" lat="39.0775" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD752" magvar="7.0"/>
+		<Waypoint lon="116.2505" lat="38.8363" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD753" magvar="7.0"/>
+		<Waypoint lon="116.4569" lat="39.0689" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD754" magvar="7.0"/>
+		<Waypoint lon="116.4319" lat="39.2902" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD766" magvar="7.0"/>
+		<Waypoint lon="116.4230" lat="39.2894" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD767" magvar="7.0"/>
+		<Waypoint lon="116.4150" lat="39.3372" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD771" magvar="7.0"/>
+		<Waypoint lon="116.2238" lat="39.6116" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD652" magvar="7.0"/>
+		<Waypoint lon="115.9530" lat="39.5947" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD653" magvar="7.0"/>
+		<Waypoint lon="115.9769" lat="39.4477" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD654" magvar="7.0"/>
+		<Waypoint lon="116.1047" lat="39.6580" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD665" magvar="7.0"/>
+		<Waypoint lon="116.1291" lat="39.4980" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD682" magvar="7.0"/>
+		<Waypoint lon="115.7491" lat="39.4549" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD683" magvar="7.0"/>
+		<Waypoint lon="115.6049" lat="39.8983" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD684" magvar="7.0"/>
+		<Waypoint lat="39.7644" lon="116.0883" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD762" magvar="7.0"/>
+		<Waypoint lon="116.1455" lat="39.3908" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD763" magvar="7.0"/>
+		<Waypoint lon="116.1291" lat="39.4980" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD783" magvar="7.0"/>
+		<Waypoint lon="115.7491" lat="39.4549" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD784" magvar="7.0"/>
+		<Waypoint lon="115.6049" lat="39.8983" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD785" magvar="7.0"/>
+		<Waypoint lon="117.0147" lat="40.4136" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD616" magvar="7.0"/>
+		<Waypoint lon="116.8563" lat="40.1208" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD625" magvar="7.0"/>
+		<Waypoint lon="117.0250" lat="40.3574" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD626" magvar="7.0"/>
+		<Waypoint lon="117.0147" lat="40.4136" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD716" magvar="7.0"/>
+		<Waypoint lon="116.8563" lat="40.1208" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD725" magvar="7.0"/>
+		<Waypoint lon="116.6413" lat="39.4905" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD611" magvar="7.0"/>
+		<Waypoint lon="116.7866" lat="39.5458" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD612" magvar="7.0"/>
+		<Waypoint lon="116.9286" lat="39.5997" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD613" magvar="7.0"/>
+		<Waypoint lon="117.1494" lat="39.6827" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD614" magvar="7.0"/>
+		<Waypoint lon="117.0786" lat="40.0686" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD615" magvar="7.0"/>
+		<Waypoint lon="116.5558" lat="39.5705" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD622" magvar="7.0"/>
+		<Waypoint lon="116.8072" lat="39.5924" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD623" magvar="7.0"/>
+		<Waypoint lon="116.7488" lat="39.9694" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD624" magvar="7.0"/>
+		<Waypoint lon="116.5797" lat="39.4158" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD627" magvar="7.0"/>
+		<Waypoint lon="116.7672" lat="39.4769" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD632" magvar="7.0"/>
+		<Waypoint lon="116.2911" lat="39.6155" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD650" magvar="7.0"/>
+		<Waypoint lon="116.3702" lat="39.6819" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD651" magvar="7.0"/>
+		<Waypoint lon="116.2649" lat="39.6141" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD663" magvar="7.0"/>
+		<Waypoint lon="116.2702" lat="39.6730" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD664" magvar="7.0"/>
+		<Waypoint lon="116.3530" lat="39.7897" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD709" magvar="7.0"/>
+		<Waypoint lon="116.6413" lat="39.4905" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD711" magvar="7.0"/>
+		<Waypoint lon="116.7866" lat="39.5458" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD712" magvar="7.0"/>
+		<Waypoint lon="116.9286" lat="39.5997" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD713" magvar="7.0"/>
+		<Waypoint lon="117.1494" lat="39.6827" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD714" magvar="7.0"/>
+		<Waypoint lon="117.0786" lat="40.0686" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD715" magvar="7.0"/>
+		<Waypoint lon="116.5558" lat="39.5705" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD722" magvar="7.0"/>
+		<Waypoint lon="116.8072" lat="39.5924" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD723" magvar="7.0"/>
+		<Waypoint lon="116.7488" lat="39.9694" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD724" magvar="7.0"/>
+		<Waypoint lon="116.7672" lat="39.4769" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD732" magvar="7.0"/>
+		<Waypoint lon="116.5724" lat="39.4630" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD741" magvar="7.0"/>
+		<Waypoint lon="116.3441" lat="39.7889" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD760" magvar="7.0"/>
+		<Waypoint lon="116.7169" lat="39.4652" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD790" magvar="7.0"/>
+		<Waypoint lat="39.323441" lon="116.454673" magvar="7.0" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF01L"/>
+		<Waypoint lon="116.4116" lat="39.5964" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF19R" magvar="7.0"/>
+		<Waypoint lon="116.6613" lat="39.4751" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF29R" magvar="7.0"/>
+		<Waypoint lon="116.3811" lat="39.6126" waypointType="FAF" waypointRegion="ZB" waypointIdent="F17LY" magvar="7.0"/>
+		<Waypoint lon="116.3648" lat="39.7153" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF17L" magvar="7.0"/>
+		<Waypoint lon="116.3723" lat="39.6118" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF17R" magvar="7.0"/>
+		<Waypoint lon="116.4237" lat="39.2856" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35L" magvar="7.0"/>
+		<Waypoint lat="39.2865" lon="116.4325" waypointType="FAF" waypointRegion="ZB" waypointIdent="FF35R" magvar="7.0"/>
+		<Waypoint lat="40.7022" lon="117.2692" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="BUMDU"/>
+		<Waypoint lat="40.7511" lon="116.8003" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="DOTRA"/>
+		<Waypoint lat="38.63583" lon="116.3686" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="AVBOX"/>
+		<Waypoint lat="38.71722" lon="115.5183" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="BELAX"/>
+		<Waypoint lat="40.20167" lon="115.5006" magvar="7.0" waypointType="NAMED" waypointRegion="ZB" waypointIdent="ELAPU"/>
+		<Approach type="ILS" runway="35" designator="LEFT" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF35L" altitude="1200M" heading="359" missedAltitude="900M">
+			<ApproachLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD660" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXR" theta="179" rho="22.9N" altitudeDescriptor="I" altitude1="1800M" altitude2="1200M"/>
+				<Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF35L" flyOver="FALSE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXR" theta="179" rho="12.1N" magneticCourse="359" distance="10.8N" altitudeDescriptor="A" altitude1="1200M"/>
+				<Leg type="CF" fixType="RUNWAY" fixRegion="ZB" fixIdent="RW35L" flyOver="TRUE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXR" theta="179" rho="0.7N" magneticCourse="359" distance="22.2N" altitudeDescriptor="A" altitude1="25M"/>
+			</ApproachLegs>
+			<MissedApproachLegs>
+				<Leg type="CA" magneticCourse="359.0" altitudeDescriptor="+" altitude1="150M"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD663" flyOver="TRUE" magneticCourse="229.0"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD682" flyOver="TRUE" magneticCourse="179.0"/>
+				<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD768" turnDirection="L" magneticCourse="179" time="1.0" altitudeDescriptor="+" altitude1="900M"/>
+			</MissedApproachLegs>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661" altitude="1800M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD660" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1800M"/>
+				</TransitionLegs>
+			</Transition>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD645" altitude="1800M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD645" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD660" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1800M"/>
+				</TransitionLegs>
+			</Transition>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" altitude="1200M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD660" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1200M"/>
+				</TransitionLegs>
+			</Transition>
+		</Approach>
+		<Approach type="ILS" runway="35" designator="RIGHT" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF35R" altitude="1200M" heading="359" missedAltitude="900M">
+			<ApproachLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD641" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXG" theta="179" rho="22.9N" altitudeDescriptor="I" altitude1="1800M" altitude2="1200M"/>
+				<Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF35R" flyOver="FALSE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXG" theta="179" rho="12.1N" magneticCourse="359" distance="10.8N" altitudeDescriptor="A" altitude1="1200M"/>
+				<Leg type="CF" fixType="RUNWAY" fixRegion="ZB" fixIdent="RW35L" flyOver="TRUE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXG" theta="179" rho="0.7N" magneticCourse="359" distance="22.2N" altitudeDescriptor="A" altitude1="25M"/>
+			</ApproachLegs>
+			<MissedApproachLegs>
+				<Leg type="CA" magneticCourse="359.0" altitudeDescriptor="+" altitude1="150M"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD651" flyOver="TRUE" magneticCourse="269.0"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD664" flyOver="TRUE" magneticCourse="269.0"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD665" flyOver="TRUE" magneticCourse="179.0"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD682" flyOver="TRUE" magneticCourse="179.0"/>
+				<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD768" turnDirection="L" magneticCourse="179" time="1.0" altitudeDescriptor="+" altitude1="900M"/>
+			</MissedApproachLegs>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661" altitude="1800M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD641" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1800M"/>
+				</TransitionLegs>
+			</Transition>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD645" altitude="1800M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD645" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD641" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1800M"/>
+				</TransitionLegs>
+			</Transition>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" altitude="1200M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD641" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1200M"/>
+				</TransitionLegs>
+			</Transition>
+		</Approach>
+		<Approach type="ILS" runway="29" designator="RIGHT" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF29R" altitude="1200M" heading="289" missedAltitude="900M">
+			<ApproachLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD790" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IBP" theta="179" rho="11.8N" altitudeDescriptor="I" altitude1="1200M" altitude2="1200M"/>
+				<Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF29R" flyOver="FALSE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IBP" theta="179" rho="9.1N" magneticCourse="289" distance="2.7N" altitudeDescriptor="A" altitude1="1200M"/>
+				<Leg type="CF" fixType="RUNWAY" fixRegion="ZB" fixIdent="RW29R" flyOver="TRUE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IBP" theta="179" rho="0.7N" magneticCourse="289" distance="11.1N" altitudeDescriptor="A" altitude1="25M"/>
+			</ApproachLegs>
+			<MissedApproachLegs>
+				<Leg type="CA" magneticCourse="289.0" altitudeDescriptor="+" altitude1="150M"/>
+				<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" turnDirection="L" magneticCourse="179" time="1.0" altitudeDescriptor="+" altitude1="900M"/>
+			</MissedApproachLegs>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" altitude="1200M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD790" flyOver="FALSE" magneticCourse="289" altitudeDescriptor="A" altitude1="1200M"/>
+				</TransitionLegs>
+			</Transition>
+		</Approach>
+		<Approach type="ILS" runway="19" designator="RIGHT" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF19R" altitude="600M" heading="359" missedAltitude="900M">
+			<ApproachLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD720" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IDZ" theta="359" rho="17.7N" altitudeDescriptor="I" altitude1="1200M" altitude2="600M"/>
+				<Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF19R" flyOver="FALSE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IDZ" theta="359" rho="5.5N" magneticCourse="179" distance="12.2N" altitudeDescriptor="A" altitude1="600M"/>
+				<Leg type="CF" fixType="RUNWAY" fixRegion="ZB" fixIdent="RW19R" flyOver="TRUE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IDZ" theta="359" rho="0.7N" magneticCourse="179" distance="17.0N" altitudeDescriptor="A" altitude1="25M"/>
+			</ApproachLegs>
+			<MissedApproachLegs>
+				<Leg type="CA" magneticCourse="359.0" altitudeDescriptor="+" altitude1="150M"/>
+				<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD646" turnDirection="R" magneticCourse="359" time="1.0" altitudeDescriptor="+" altitude1="900M"/>
+			</MissedApproachLegs>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD721" altitude="600M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD721" altitudeDescriptor="+" altitude1="600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD720" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="600M"/>
+				</TransitionLegs>
+			</Transition>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" altitude="1200M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD720" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1200M"/>
+				</TransitionLegs>
+			</Transition>
+		</Approach>
+		<Approach type="ILS" runway="17" designator="RIGHT" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF17R" altitude="1200M" heading="359" missedAltitude="900M">
+			<ApproachLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD760" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXE" theta="359" rho="16.6N" altitudeDescriptor="I" altitude1="1200M" altitude2="1200M"/>
+				<Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF17R" flyOver="FALSE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXE" theta="359" rho="12.1N" magneticCourse="179" distance="4.5N" altitudeDescriptor="A" altitude1="1200M"/>
+				<Leg type="CF" fixType="RUNWAY" fixRegion="ZB" fixIdent="RW17R" flyOver="TRUE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXE" theta="359" rho="0.7N" magneticCourse="179" distance="15.9N" altitudeDescriptor="A" altitude1="25M"/>
+			</ApproachLegs>
+			<MissedApproachLegs>
+				<Leg type="CA" magneticCourse="359.0" altitudeDescriptor="+" altitude1="150M"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD767" flyOver="FALSE" magneticCourse="269.0"/>
+				<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD768" turnDirection="R" magneticCourse="359" time="1.0" altitudeDescriptor="+" altitude1="900M"/>
+			</MissedApproachLegs>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" altitude="1500M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" altitudeDescriptor="A" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD760" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1200M"/>
+				</TransitionLegs>
+			</Transition>
+		</Approach>
+		<Approach type="ILS" runway="17" designator="LEFT" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF17L" altitude="1200M" heading="359" missedAltitude="900M">
+			<ApproachLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD709" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXA" theta="359" rho="16.6N" altitudeDescriptor="I" altitude1="1200M" altitude2="1200M"/>
+				<Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF17L" flyOver="FALSE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXA" theta="359" rho="12.1N" magneticCourse="179" distance="4.5N" altitudeDescriptor="A" altitude1="1200M"/>
+				<Leg type="CF" fixType="RUNWAY" fixRegion="ZB" fixIdent="RW17L" flyOver="TRUE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IXA" theta="359" rho="0.7N" magneticCourse="179" distance="15.9N" altitudeDescriptor="A" altitude1="25M"/>
+			</ApproachLegs>
+			<MissedApproachLegs>
+				<Leg type="CA" magneticCourse="359.0" altitudeDescriptor="+" altitude1="150M"/>
+				<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD766" flyOver="FALSE" magneticCourse="269.0"/>
+				<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD768" turnDirection="R" magneticCourse="359" time="1.0" altitudeDescriptor="+" altitude1="900M"/>
+			</MissedApproachLegs>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" altitude="1500M">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" altitudeDescriptor="A" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD709" flyOver="FALSE" magneticCourse="359" altitudeDescriptor="A" altitude1="1200M"/>
+				</TransitionLegs>
+			</Transition>
+		</Approach>
+		<Approach type="ILS" runway="01" designator="LEFT" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF01L" altitude="1800M" heading="359" missedAltitude="900M">
+			<ApproachLegs>
+				<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD620" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IDN" theta="179" rho="40400M" altitudeDescriptor="I" altitude1="1800M" altitude2="1200M"/>
+				<Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="FF01L" flyOver="FALSE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IDN" theta="179" rho="16500M" magneticCourse="359.0" distance="21900M" altitudeDescriptor="A" altitude1="900M"/>
+				<Leg type="CF" fixType="RUNWAY" fixRegion="ZB" fixIdent="RW05" flyOver="TRUE" recommendedType="LOCALIZER" recommendedRegion="ZB" recommendedIdent="IDN" theta="179" rho="1050M" magneticCourse="359.0" distance="16500M" altitudeDescriptor="A" altitude1="25M"/>
+			</ApproachLegs>
+			<MissedApproachLegs>
+				<Leg type="CA" magneticCourse="359.0" altitudeDescriptor="+" altitude1="300M"/>
+				<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD627" flyOver="TRUE" turnDirection="R" altitudeDescriptor="+" altitude1="900M"/>
+				<Leg type="HM" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD646" turnDirection="L" magneticCourse="179.0" time="1.0" altitudeDescriptor="+" altitude1="900M"/>
+			</MissedApproachLegs>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD620" flyOver="FALSE" magneticCourse="269.0" altitudeDescriptor="A" altitude1="1200M"/>
+				</TransitionLegs>
+			</Transition>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD620" flyOver="FALSE" magneticCourse="089.0" altitudeDescriptor="A" altitude1="1800M"/>
+				</TransitionLegs>
+			</Transition>
+			<Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD645">
+				<TransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD645" altitudeDescriptor="+" altitude1="2100M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD620" flyOver="FALSE" magneticCourse="017.0" altitudeDescriptor="A" altitude1="1800M"/>
+				</TransitionLegs>
+			</Transition>
+		</Approach>
+		<Arrival name="01A">
+			<EnrouteTransitions>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="BUMDU"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD626" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD625" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD624" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD623" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD622" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD646" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DUMAP"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD643" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD642" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2100M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD647" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AVBOX"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD621" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2100M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="BELAX"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD662" magneticCourse="0.0" altitudeDescriptor="+" altitude1="2100M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1800M"/>
+				</EnrouteTransitionLegs>				
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELAPU"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD684" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD683" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD682" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD768" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD661" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1200M"/>
+				</EnrouteTransitionLegs>
+			</EnrouteTransitions>
+			<CommonRouteLegs/>
+			<RunwayTransitions/>
+		</Arrival>
+		<Arrival name="02A">
+			<EnrouteTransitions>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AVBOX" altitudeDescriptor="A" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD645" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2100M"/>
+				</EnrouteTransitionLegs>
+			</EnrouteTransitions>
+			<CommonRouteLegs/>
+			<RunwayTransitions/>
+		</Arrival>
+		<Arrival name="11A">
+			<EnrouteTransitions>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="BUMDU" />
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD725" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD724" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD723" magneticCourse="0.0" altitudeDescriptor="-" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD722" magneticCourse="0.0" altitudeDescriptor="A" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD721" magneticCourse="0.0" altitudeDescriptor="A" altitude1="600M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DUMAP"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD744" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD743" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD742" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD646" magneticCourse="0.0" altitudeDescriptor="+" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD741" magneticCourse="0.0" altitudeDescriptor="A" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD722" magneticCourse="0.0" altitudeDescriptor="A" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD721" magneticCourse="0.0" altitudeDescriptor="A" altitude1="600M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AVBOX"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD742" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD646" magneticCourse="0.0" altitudeDescriptor="+" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD741" magneticCourse="0.0" altitudeDescriptor="A" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD722" magneticCourse="0.0" altitudeDescriptor="A" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD721" magneticCourse="0.0" altitudeDescriptor="A" altitude1="600M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="BELAX"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD765" magneticCourse="0.0" altitudeDescriptor="+" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD764" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD768" magneticCourse="0.0" altitudeDescriptor="+" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD763" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD783" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD762" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1500M"/>
+				</EnrouteTransitionLegs>				
+				<EnrouteTransitionLegs>
+					<Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELAPU"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD785" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD784" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD783" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD762" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD761" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1500M"/>
+				</EnrouteTransitionLegs>
+			</EnrouteTransitions>
+			<CommonRouteLegs/>
+			<RunwayTransitions/>
+		</Arrival>
 		<Departure name="12D">
 			<RunwayTransitions>
-                <RunwayTransitionLegs number="17" designator="RIGHT">
-                <Leg type="CA" magneticCourse="179.0" altitudeDescriptor="A" altitude1="150M"/>
-                </RunwayTransitionLegs>
-            </RunwayTransitions>
-            <CommonRouteLegs/>
-            <EnrouteTransitions>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD771" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD754" altitudeDescriptor="A" altitude1="2100M" magneticCourse="221.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD753" altitudeDescriptor="-" altitude1="3600M" magneticCourse="221.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" altitudeDescriptor="A" altitude1="4200M" magneticCourse="221.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD771" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD772" altitudeDescriptor="A" altitude1="1800M" magneticCourse="247.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD773" altitudeDescriptor="A" altitude1="2400M" magneticCourse="247.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" altitudeDescriptor="A" altitude1="4500M" magneticCourse="247.0"/>
-                </EnrouteTransitionLegs>
-            </EnrouteTransitions>
-        </Departure>
-
+				<RunwayTransitionLegs number="19" designator="RIGHT">
+					<Leg type="CA" magneticCourse="179" altitudeDescriptor="A" altitude1="150M"/>
+				</RunwayTransitionLegs>
+				<RunwayTransitionLegs number="17" designator="RIGHT">
+					<Leg type="CA" magneticCourse="179" altitudeDescriptor="A" altitude1="150M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD771" magneticCourse="179.0" altitudeDescriptor="A" altitude1="600M"/>
+				</RunwayTransitionLegs>
+			</RunwayTransitions>
+			<CommonRouteLegs/>
+			<EnrouteTransitions>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD772" magneticCourse="0.0" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD773" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4500M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD754" magneticCourse="0.0" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD753" magneticCourse="0.0" altitudeDescriptor="-" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+				</EnrouteTransitionLegs>
+			</EnrouteTransitions>
+		</Departure>
+		<Departure name="02D">
+			<RunwayTransitions>
+				<RunwayTransitionLegs number="01" designator="LEFT">
+					<Leg type="CA" magneticCourse="359" altitudeDescriptor="A" altitude1="150M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD611" magneticCourse="0.0" altitudeDescriptor="A" altitude1="600M"/>
+				</RunwayTransitionLegs>
+				<RunwayTransitionLegs number="35" designator="RIGHT">
+					<Leg type="CA" magneticCourse="359" altitudeDescriptor="A" altitude1="150M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD650" magneticCourse="0.0" altitudeDescriptor="+" altitude1="600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD652" magneticCourse="0.0" altitudeDescriptor="-" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD653" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD654" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+				</RunwayTransitionLegs>
+			</RunwayTransitions>
+			<CommonRouteLegs/>
+			<EnrouteTransitions>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD612" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD613" magneticCourse="0.0" altitudeDescriptor="-" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD614" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD615" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD616" magneticCourse="0.0"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="IDKEX" magneticCourse="0.0" altitudeDescriptor="A" altitude1="5400M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD612" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD613" magneticCourse="0.0" altitudeDescriptor="-" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD614" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD615" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD616" magneticCourse="0.0"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DOTRA" magneticCourse="0.0" altitudeDescriptor="A" altitude1="5400M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD632" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD633" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD634" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD635" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3000M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="MUGLO" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4500M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD632" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD633" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD634" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD636" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3000M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELKUR" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD655" magneticCourse="0.0" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD656" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD655" magneticCourse="0.0" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4500M"/>
+				</EnrouteTransitionLegs>
+			</EnrouteTransitions>
+		</Departure>
 		<Departure name="01D">
 			<RunwayTransitions>
-                <RunwayTransitionLegs number="01" designator="LEFT">
-                <Leg type="CA" magneticCourse="359.0" altitudeDescriptor="A" altitude1="150M"/>
-                </RunwayTransitionLegs>
-            </RunwayTransitions>
-            <CommonRouteLegs/>
-            <EnrouteTransitions>
-                <EnrouteTransitionLegs>
-                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="323.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="IDKEX" altitudeDescriptor="A" altitude1="5400M" magneticCourse="002.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" altitudeDescriptor="A" altitude1="1200M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" altitudeDescriptor="-" altitude1="1500M" magneticCourse="070.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" altitudeDescriptor="A" altitude1="2700M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" altitudeDescriptor="A" altitude1="4800M" magneticCourse="357.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="341.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DOTRA" altitudeDescriptor="A" altitude1="5400M" magneticCourse="341.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="099.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD735" altitudeDescriptor="A" altitude1="3000M" magneticCourse="099.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="MUGLO" altitudeDescriptor="+" altitude1="4500M" magneticCourse="099.0"/>
-                </EnrouteTransitionLegs>
-                <EnrouteTransitionLegs>
-                <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" altitudeDescriptor="A" altitude1="600M" flyOver="FALSE"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" altitudeDescriptor="A" altitude1="1200M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" altitudeDescriptor="+" altitude1="1800M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" altitudeDescriptor="A" altitude1="2400M" magneticCourse="164.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD736" altitudeDescriptor="A" altitude1="3000M" magneticCourse="229.0"/>
-                <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELKUR" altitudeDescriptor="A" altitude1="4200M" magneticCourse="229.0"/>
-                </EnrouteTransitionLegs>
-            </EnrouteTransitions>
-        </Departure>
+				<RunwayTransitionLegs number="35" designator="RIGHT">
+					<Leg type="CA" magneticCourse="359" altitudeDescriptor="A" altitude1="150M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD651" magneticCourse="0.0" altitudeDescriptor="A" altitude1="900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD664" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD665" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD653" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+				</RunwayTransitionLegs>
+				<RunwayTransitionLegs number="11" designator="LEFT">
+					<Leg type="CA" magneticCourse="359" altitudeDescriptor="A" altitude1="150M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD611" magneticCourse="0.0" altitudeDescriptor="A" altitude1="600M"/>
+				</RunwayTransitionLegs>
+			</RunwayTransitions>
+			<CommonRouteLegs/>
+			<EnrouteTransitions>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD612" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD613" magneticCourse="0.0" altitudeDescriptor="-" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD614" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD615" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD616" magneticCourse="0.0"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="IDKEX" magneticCourse="0.0" altitudeDescriptor="A" altitude1="5400M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD612" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD613" magneticCourse="0.0" altitudeDescriptor="-" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD614" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD615" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD616" magneticCourse="0.0"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DOTRA" magneticCourse="0.0" altitudeDescriptor="A" altitude1="5400M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD632" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD633" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD634" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD635" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3000M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="MUGLO" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4500M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD632" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD633" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD634" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD636" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3000M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELKUR" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD654" magneticCourse="0.0" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD655" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD656" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD654" magneticCourse="0.0" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD655" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3900M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4500M"/>
+				</EnrouteTransitionLegs>
+			</EnrouteTransitions>
+		</Departure>
+		<Departure name="11D">
+			<RunwayTransitions>
+				<RunwayTransitionLegs number="19" designator="RIGHT">
+					<Leg type="CA" magneticCourse="179" altitudeDescriptor="A" altitude1="150M"/>
+				</RunwayTransitionLegs>
+				<RunwayTransitionLegs number="17" designator="LEFT">
+					<Leg type="CA" magneticCourse="179" altitudeDescriptor="A" altitude1="150M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD751" flyOver="FALSE" magneticCourse="179.0" altitudeDescriptor="A" altitude1="600M"/>
+				</RunwayTransitionLegs>
+			</RunwayTransitions>
+			<CommonRouteLegs/>
+			<EnrouteTransitions>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" magneticCourse="0.0" altitudeDescriptor="-" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="0.0"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="IDKEX" magneticCourse="0.0" altitudeDescriptor="A" altitude1="5400M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD712" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD713" magneticCourse="0.0" altitudeDescriptor="-" altitude1="1500M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD714" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2700M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD715" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD716" magneticCourse="0.0"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="DOTRA" magneticCourse="0.0" altitudeDescriptor="A" altitude1="5400M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD735" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3000M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="MUGLO" magneticCourse="0.0" altitudeDescriptor="+" altitude1="4500M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD711" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD732" magneticCourse="0.0" altitudeDescriptor="A" altitude1="1200M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD733" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD734" magneticCourse="0.0" altitudeDescriptor="A" altitude1="2400M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD736" magneticCourse="0.0" altitudeDescriptor="A" altitude1="3000M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="ELKUR" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD752" flyOver="FALSE" magneticCourse="0.0"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD753" magneticCourse="0.0" altitudeDescriptor="-" altitude1="3600M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="OMDEK" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4200M"/>
+				</EnrouteTransitionLegs>
+				<EnrouteTransitionLegs>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD772" magneticCourse="0.0" flyOver="FALSE"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="AD773" magneticCourse="0.0" altitudeDescriptor="+" altitude1="1800M"/>
+					<Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="ZB" fixIdent="PEGSO" magneticCourse="0.0" altitudeDescriptor="A" altitude1="4500M"/>
+				</EnrouteTransitionLegs>
+			</EnrouteTransitions>
+		</Departure>
+		<Waypoint lon="115.500083" lat="38.583528" waypointType="NAMED" waypointRegion="ZB" waypointIdent="PEGSO" magvar="7.0"/>
+		<Waypoint lon="116.083472" lat="38.650083" waypointType="NAMED" waypointRegion="ZB" waypointIdent="OMDEK" magvar="7.0"/>
+		<Waypoint lon="116.65025" lat="38.633444" waypointType="NAMED" waypointRegion="ZB" waypointIdent="ELKUR" magvar="7.0"/>
+		<Waypoint lon="116.566667" lat="40.766861" waypointType="NAMED" waypointRegion="ZB" waypointIdent="IDKEX" magvar="7.0"/>
+		<Waypoint lon="118.033361" lat="39.066722" waypointType="NAMED" waypointRegion="ZB" waypointIdent="MUGLO" magvar="7.0"/>
+		<Waypoint lon="116.204444" lat="39.775556" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD761" magvar="7.0"/>
 ZUAL
 
         <Waypoint lat="32.364922" lon="80.419648" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL307" magvar="0.0" />
