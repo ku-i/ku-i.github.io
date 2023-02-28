@@ -1,3 +1,4 @@
+北大
 		<Com frequency="118.825000" type="TOWER" name="TWR01"/>
 		<Com frequency="118.375000" type="TOWER" name="TWR02"/>
 		<Com frequency="130.425000" type="TOWER" name="TWR03"/>
@@ -589,7 +590,7 @@
 		<Waypoint lon="116.566667" lat="40.766861" waypointType="NAMED" waypointRegion="ZB" waypointIdent="IDKEX" magvar="7.0"/>
 		<Waypoint lon="118.033361" lat="39.066722" waypointType="NAMED" waypointRegion="ZB" waypointIdent="MUGLO" magvar="7.0"/>
 		<Waypoint lon="116.204444" lat="39.775556" waypointType="RNAV" waypointRegion="ZB" waypointIdent="AD761" magvar="7.0"/>
-ZUAL
+阿里
 
         <Waypoint lat="32.364922" lon="80.419648" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL307" magvar="0.0" />
         <Waypoint lat="32.455903" lon="80.140153" waypointType="RNAV" waypointRegion="ZU" waypointIdent="AL306" magvar="0.0" />
@@ -622,7 +623,7 @@ ZUAL
 		</Transition>
 		</Approach>
 		
-ZUBD
+昌都
 
         <Waypoint lat="30.521558" lon="101.602618" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD201" magvar="0.0" />
         <Waypoint lat="30.355666" lon="101.594287" waypointType="RNAV" waypointRegion="ZU" waypointIdent="KD102" magvar="0.0" />
